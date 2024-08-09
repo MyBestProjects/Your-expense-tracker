@@ -1,1 +1,1 @@
-# Your-expense-tracker
+I am excited to present my first Python project, which I developed using a tutorial as a guide. This project involved writing and refining Python code to achieve a functional application. To complete the project, I packaged the Python script into an executable (EXE) file, making it easily accessible and distributable for Windows users without requiring Python to be installed. This experience has enhanced my understanding of Python programming and application deployment, marking a significant milestone in my learning journey.
